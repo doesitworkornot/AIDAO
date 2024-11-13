@@ -1,0 +1,1 @@
+When solving the second track, the idea was to use a convolutional network with additional augmentations. Where the input image is the correlation between brain regions. The main problem with this approach is the limited validation and test set. The problem was planned to be solved using augmentations, and the result seemed good on the validation and closed test set.
